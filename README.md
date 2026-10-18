@@ -8,7 +8,6 @@
 
 This repository accompanies the research paper **“The AI Productivity Gap: Aligning Developer Productivity Evidence with Software Delivery Effort.”** It contains scripts and artifacts for a secondary empirical analysis of two METR developer-productivity datasets and an existing systematic-review artifact. The study connects productivity evidence to software planning while distinguishing measured effects from proposed planning guidance.
 
-**Status:** Research replication package under preparation. The manuscript and repository metadata may change before public release. No publication acceptance, archival DOI, or independent-machine reproduction is claimed here.
 
 ## Study at a glance
 

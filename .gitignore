@@ -44,3 +44,9 @@ env/
 /results/figures/fig_productivity_gap_v2.png
 /results/figures/fig_productivity_gap_v3.pdf
 /results/figures/fig_productivity_gap_v3.png
+
+# Empty documentation placeholders retained locally
+/docs/analysis_plan.md
+/docs/data_audit.md
+/docs/decisions_log.md
+/docs/variable_dictionary.md

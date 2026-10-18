@@ -29,12 +29,8 @@ data/raw/metr_late/regression.py
 data/raw/slr_artifact/Readme.md
 data/raw/slr_artifact/SLR_all_included_studies.xlsx
 data/raw/slr_artifact/Tables.pdf
-docs/analysis_plan.md
-docs/data_audit.md
 docs/data_provenance.md
-docs/decisions_log.md
 docs/slr_boundary_coding_protocol_v0.1.md
-docs/variable_dictionary.md
 environment.yml
 reproduce.sh
 requirements.txt

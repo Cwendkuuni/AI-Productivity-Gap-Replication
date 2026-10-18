@@ -1,0 +1,7 @@
+category,count,denominator,percent
+B1,3,19,15.8
+B2,11,19,57.9
+B3,3,19,15.8
+B4,2,19,10.5
+B1+B2_local_or_implementation,14,19,73.7
+B3+B4_verification_or_delivery,5,19,26.3

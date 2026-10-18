@@ -1,0 +1,128 @@
+sheet,column,rank,value,count
+Sheet1,count,1,1,1
+Sheet1,count,2,2,1
+Sheet1,count,3,3,1
+Sheet1,count,4,4,1
+Sheet1,count,5,5,1
+Sheet1,count,6,6,1
+Sheet1,count,7,7,1
+Sheet1,count,8,8,1
+Sheet1,count,9,9,1
+Sheet1,count,10,10,1
+Sheet1,count,11,11,1
+Sheet1,count,12,12,1
+Sheet1,count,13,13,1
+Sheet1,count,14,14,1
+Sheet1,count,15,15,1
+Sheet1,count,16,16,1
+Sheet1,count,17,17,1
+Sheet1,count,18,18,1
+Sheet1,count,19,19,1
+Sheet1,count,20,20,1
+Sheet1,count,21,21,1
+Sheet1,count,22,22,1
+Sheet1,count,23,23,1
+Sheet1,count,24,24,1
+Sheet1,count,25,25,1
+Sheet1,count,26,26,1
+Sheet1,count,27,27,1
+Sheet1,count,28,28,1
+Sheet1,count,29,29,1
+Sheet1,count,30,30,1
+Sheet1,count,31,31,1
+Sheet1,count,32,32,1
+Sheet1,count,33,33,1
+Sheet1,count,34,34,1
+Sheet1,count,35,35,1
+Sheet1,count,36,36,1
+Sheet1,count,37,37,1
+Sheet1,count,38,38,1
+Sheet1,count,39,39,1
+Sheet1,Title,1,"""You're on a bicycle with a little motor"": Benefits and Challenges of Using AI Code Assistants",1
+Sheet1,Title,2,A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges,1
+Sheet1,Title,3,"AI-Assisted Code Authoring at Scale: Fine-Tuning, Deploying, and Mixed Methods Evaluation",1
+Sheet1,Title,4,AI-Tutoring in Software Engineering Education,1
+Sheet1,Title,5,Accelerating Software Development Using Generative AI: ChatGPT Case Study,1
+Sheet1,Title,6,An Analysis of the Costs and Benefits of Autocomplete in IDEs,1
+Sheet1,Title,7,An Industry Case Study on Adoption of AI-based Programming Assistants,1
+Sheet1,Title,8,Ansible Lightspeed: A Code Generation Service for IT Automation,1
+Sheet1,Title,9,Better Together? An Evaluation of AI-Supported Code Translation,1
+Sheet1,Title,10,Beyond Code Generation: An Observational Study of ChatGPT Usage in Software Engineering Practice,1
+Sheet1,Title,11,"Developer Experiences with a Contextualized AI Coding Assistant: Usability, Expectations, and Outcomes",1
+Sheet1,Title,12,Generation Probabilities Are Not Enough: Uncertainty Highlighting in AI Code Completions,1
+Sheet1,Title,13,How ChatGPT shapes the future labour market situation of software engineers: A Finnish Delphi study,1
+Sheet1,Title,14,How Far Are We? The Triumphs and Trials of Generative AI in Learning Software Engineering,1
+Sheet1,Title,15,In-IDE Code Generation from Natural Language: Promise and Challenges,1
+Sheet1,Title,16,Navigating the Complexity of Generative AI Adoption in Software Engineering—RCR Report,1
+Sheet1,Title,17,"Performance, Workload, Emotion, and Self-Efficacy of Novice Programmers Using AI Code Generation",1
+Sheet1,Title,18,Productivity assessment of neural code completion,1
+Sheet1,Title,19,Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Programming,1
+Sheet1,Title,20,"Rocks Coding, Not Development: A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks",1
+Sheet1,Title,21,Significant Productivity Gains through Programming with Large Language Models,1
+Sheet1,Title,22,"Take It, Leave It, or Fix It: Measuring Productivity and Trust in Human-AI Collaboration",1
+Sheet1,Title,23,The Impact of AI-Pair Programmers on Code Quality and Developer Satisfaction: Evidence from TiMi studio,1
+Sheet1,Title,24,The Role of Generative AI in Software Development Productivity: A Pilot Case Study,1
+Sheet1,Title,25,"Trade-offs for Substituting a Human with an Agent in a Pair Programming Context: The Good, the Bad, and the Ugly",1
+Sheet1,Title,26,Using an LLM to Help With Code Understanding,1
+Sheet1,Title,27,What drives the corporate payoffs of using generative artificial intelligence?,1
+Sheet1,Title,28,An Empirical Study on How Large Language Models Impact Software Testing Learning,1
+Sheet1,Title,29,“Will I be replaced?” Assessing ChatGPT's effect on software development and programmer perceptions of AI tools,1
+Sheet1,Title,30,The role of firm AI capabilities in generative AI-pair coding,1
+Sheet1,Title,31,Don’t Complete It! Preventing Unhelpful Code Completion for Productive and Sustainable Neural Code Completion Systems,1
+Sheet1,Title,32,ChatGPT vs. Stack Overflow: An Exploratory Comparison of Programming Assistance Tools,1
+Sheet1,Title,33,The impact of GitHub Copilot on developer productivity from a software engineering body of knowledge perspective,1
+Sheet1,Title,34,AI-Augmented Software Development: Boosting Efficiency and Quality,1
+Sheet1,Title,35,"Can Generative AI Contribute to both productivity gains and human Flourishing, and in fine satisfaction at work? Research on GitHub Copilot use in Software Development",1
+Sheet1,Title,36,Cautious Optimism: The Influence of Generative AI Tools in Software Development Projects,1
+Sheet1,Title,37,ChatGPT as a Software Development Bot: A Project-Based Study,1
+Sheet1,Title,38,EveryBOTy Counts: Examining Human–Machine Teams in Open Source Software Development,1
+Sheet1,Title,39,The Evolution of Information Seeking in Software Development: Understanding the Role and Impact of AI Assistants,1
+Sheet1,Source,1,Full-text,35
+Sheet1,Source,2,SnowBalling,4
+Sheet1,Strategy,1,Field Study,9
+Sheet1,Strategy,2,Laboratory Experiment,9
+Sheet1,Strategy,3,Laboratory experiments,6
+Sheet1,Strategy,4,Sample Study,5
+Sheet1,Strategy,5,Experimental Simulation,5
+Sheet1,Strategy,6,Field Experiment,2
+Sheet1,Strategy,7,Judgment Study,2
+Sheet1,Strategy,8,sample study,1
+Sheet1,Procedure,1,Survey,5
+Sheet1,Procedure,2,"Case Study, Survey",4
+Sheet1,Procedure,3,"User Study, Survey",2
+Sheet1,Procedure,4,Interview,1
+Sheet1,Procedure,5,Survey (Open Ended feedback),1
+Sheet1,Procedure,6,"Concept implementation (Proof of concept), Survey",1
+Sheet1,Procedure,7,"Case study, Concept Implementation (Proof of Concept)",1
+Sheet1,Procedure,8,"Controlled experiment between-subjects, Survey",1
+Sheet1,Procedure,9,"Case Studies, Surveys",1
+Sheet1,Procedure,10,"Case Study, Controlled experiment within-subjects, Survey",1
+Sheet1,Procedure,11,"Observational Study, Survey",1
+Sheet1,Procedure,12,"Controlled Experiment : within-subjects, Survey, interview",1
+Sheet1,Procedure,13,"Delphi Study, Interviews, Surveys",1
+Sheet1,Procedure,14,"Controlled Experiment, Survey",1
+Sheet1,Procedure,15,"Controlled Experiment, Survey, Concept implementation (Proof of concept)",1
+Sheet1,Procedure,16,Surveys,1
+Sheet1,Procedure,17,"Controlled experiment, Survey",1
+Sheet1,Procedure,18,"Controlled Experiment - between-groups, Survey",1
+Sheet1,Procedure,19,"Controlled experiment - within-subjects, Survey",1
+Sheet1,Procedure,20,"Case study, Survey, interviews",1
+Sheet1,Procedure,21,"User Study, Interview, Survey",1
+Sheet1,Procedure,22,"Controlled Experiment : Within-subject, Survey",1
+Sheet1,Procedure,23,"Controlled experiment - between-subject, survey",1
+Sheet1,Procedure,24,"Survey, Interview, Case study",1
+Sheet1,Procedure,25,Concept Implementation (Proof of Concept),1
+Sheet1,Procedure,26,"Controlled experiment - between-groups, Survey",1
+Sheet1,Procedure,27,"User Experiment, Interview",1
+Sheet1,Procedure,28,"Case Study, Interview",1
+Sheet1,Procedure,29,"Survey, Case Study, Interview",1
+Sheet1,Procedure,30,Case Study,1
+Sheet1,Procedure,31,"Survey, Interview",1
+Sheet1,Formative vs Summative,1,Formative,23
+Sheet1,Formative vs Summative,2,Summative,16
+Sheet1,"Qualtative, Quantitative, Both",1,Both,27
+Sheet1,"Qualtative, Quantitative, Both",2,Quantitative,5
+Sheet1,"Qualtative, Quantitative, Both",3,Qualitative,4
+Sheet1,"Qualtative, Quantitative, Both",4,Qualtative,1
+Sheet1,"Qualtative, Quantitative, Both",5,Quantative,1
+Sheet1,"Qualtative, Quantitative, Both",6,Quantative analysis,1

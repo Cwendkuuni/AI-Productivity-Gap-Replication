@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+*~
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Temporary files
+*.tmp
+*.bak
+
+# Local reproducibility diagnostics and historical backups
+/docs/audit/
+
+# Regenerable execution logs containing local paths
+/results/logs/
+
+# Historical development backup
+/scripts/supporting/02_audit_metr_late (22.09.2026, 14.51).py
+
+# Superseded APG figures
+/results/figures/fig_productivity_gap.pdf
+/results/figures/fig_productivity_gap.png
+/results/figures/fig_productivity_gap_v2.pdf
+/results/figures/fig_productivity_gap_v2.png
+/results/figures/fig_productivity_gap_v3.pdf
+/results/figures/fig_productivity_gap_v3.png

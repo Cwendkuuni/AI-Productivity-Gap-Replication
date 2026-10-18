@@ -1,0 +1,8 @@
+sheet,column,rows,non_missing,missing,complete_pct,unique_values
+Sheet1,count,39,39,0,100.0,39
+Sheet1,Title,39,39,0,100.0,39
+Sheet1,Source,39,39,0,100.0,2
+Sheet1,Strategy,39,39,0,100.0,8
+Sheet1,Procedure,39,39,0,100.0,31
+Sheet1,Formative vs Summative,39,39,0,100.0,3
+Sheet1,"Qualtative, Quantitative, Both",39,39,0,100.0,7

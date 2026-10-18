@@ -185,8 +185,8 @@ The secondary analysis draws on publicly described research by **METR** and the 
 - METR Early-2025 data/code: https://github.com/METR/Measuring-Early-2025-AI-on-Exp-OSS-Devs
 - METR Late-2025 data/code: https://github.com/METR/Measuring-Late-2025-AI-on-OSS-Devs
 - Early-2025 METR study: https://arxiv.org/abs/2507.09089
-- Mohamed, Assi, and Guizani, *The impact of LLM-assistants on software developer productivity: A systematic review and mapping study*, ACM Transactions on Software Engineering and Methodology (2026).
-
+- Mohamed, Assi, and Guizani, [*The impact of LLM-assistants on software developer productivity: A systematic review and mapping study*](https://dl.acm.org/doi/10.1145/3809494), *ACM Transactions on Software Engineering and Methodology* (2026).
+  
 
 
 

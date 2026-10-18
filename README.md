@@ -210,5 +210,3 @@ with Software Delivery Effort*.
 
 A permanent Zenodo DOI and the final publication details will be
 added when available.
-
-

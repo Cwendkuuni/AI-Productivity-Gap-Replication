@@ -1,5 +1,7 @@
 # The AI Productivity Gap
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23452548.svg)](https://doi.org/10.5281/zenodo.23452548)
+
 **Aligning Developer Productivity Evidence with Software Delivery Effort**
 
 [![Reproducibility](https://img.shields.io/badge/reproducibility-analysis%20validated-2d7867)](#reproduction-and-validation) [![Python](https://img.shields.io/badge/python-3.11-3776ab)](#requirements) [![Artifact](https://img.shields.io/badge/artifact-replication%20package-555555)](#repository-organization)
@@ -208,5 +210,10 @@ The repository accompanies the manuscript
 *The AI Productivity Gap: Aligning Developer Productivity Evidence
 with Software Delivery Effort*.
 
-A permanent Zenodo DOI and the final publication details will be
-added when available.
+The first archived release (v1.0.0) is available on Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.23452548
+
+**GitHub release:** https://github.com/Cwendkuuni/AI-Productivity-Gap-Replication/releases/tag/v1.0.0
+
+Publication details for the accompanying manuscript will be added when available.

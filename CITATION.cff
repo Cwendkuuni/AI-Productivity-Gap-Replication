@@ -28,3 +28,6 @@ keywords:
   - "software effort estimation"
   - "replication package"
   - "empirical software engineering"
+
+version: 1.0.0
+doi: 10.5281/zenodo.23452548
